@@ -1,5 +1,8 @@
 # exam_repo
-/home/ktuexam/Lab_exam/rep1
+sijisha.v.s
+velaparambil(h)
+p.o konathukkunnu.
+
 Defining Git
 
 git is a distributed version control system.
